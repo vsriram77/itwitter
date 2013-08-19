@@ -1,0 +1,219 @@
+    {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sun Aug 18 23:41:47 +0000 2013";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "amazon.com";
+                    "expanded_url" = "http://amazon.com";
+                    indices =                     (
+                        95,
+                        117
+                    );
+                    url = "http://t.co/KZuJJxjC8e";
+                }
+            );
+            "user_mentions" =             (
+                                {
+                    id = 29635365;
+                    "id_str" = 29635365;
+                    indices =                     (
+                        3,
+                        12
+                    );
+                    name = "Rob Gomes";
+                    "screen_name" = robgomes;
+                },
+                                {
+                    id = 14231571;
+                    "id_str" = 14231571;
+                    indices =                     (
+                        14,
+                        26
+                    );
+                    name = "Marco Arment";
+                    "screen_name" = marcoarment;
+                }
+            );
+        };
+        "favorite_count" = 0;
+        favorited = 0;
+        geo = "<null>";
+        id = 369242755920580608;
+        "id_str" = 369242755920580608;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 1;
+        retweeted = 0;
+        "retweeted_status" =         {
+            contributors = "<null>";
+            coordinates = "<null>";
+            "created_at" = "Sun Aug 18 21:24:31 +0000 2013";
+            entities =             {
+                hashtags =                 (
+                );
+                symbols =                 (
+                );
+                urls =                 (
+                                        {
+                        "display_url" = "amazon.com";
+                        "expanded_url" = "http://amazon.com";
+                        indices =                         (
+                            81,
+                            103
+                        );
+                        url = "http://t.co/KZuJJxjC8e";
+                    }
+                );
+                "user_mentions" =                 (
+                                        {
+                        id = 14231571;
+                        "id_str" = 14231571;
+                        indices =                         (
+                            0,
+                            12
+                        );
+                        name = "Marco Arment";
+                        "screen_name" = marcoarment;
+                    }
+                );
+            };
+            "favorite_count" = 0;
+            favorited = 0;
+            geo = "<null>";
+            id = 369208208226660352;
+            "id_str" = 369208208226660352;
+            "in_reply_to_screen_name" = marcoarment;
+            "in_reply_to_status_id" = 369192138174496768;
+            "in_reply_to_status_id_str" = 369192138174496768;
+            "in_reply_to_user_id" = 14231571;
+            "in_reply_to_user_id_str" = 14231571;
+            lang = en;
+            place = "<null>";
+            "possibly_sensitive" = 0;
+            "retweet_count" = 1;
+            retweeted = 0;
+            source = "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>";
+            text = "@marcoarment I love it.  I now am greeted by bucket recommendations when I go to http://t.co/KZuJJxjC8e.";
+            truncated = 0;
+            user =             {
+                "contributors_enabled" = 0;
+                "created_at" = "Wed Apr 08 03:57:05 +0000 2009";
+                "default_profile" = 1;
+                "default_profile_image" = 0;
+                description = "Freelance database developer and independent game developer.  Alignment: Chaotic Good";
+                entities =                 {
+                    description =                     {
+                        urls =                         (
+                        );
+                    };
+                };
+                "favourites_count" = 30;
+                "follow_request_sent" = "<null>";
+                "followers_count" = 42;
+                following = "<null>";
+                "friends_count" = 38;
+                "geo_enabled" = 0;
+                id = 29635365;
+                "id_str" = 29635365;
+                "is_translator" = 0;
+                lang = en;
+                "listed_count" = 2;
+                location = "Boston, MA";
+                name = "Rob Gomes";
+                notifications = "<null>";
+                "profile_background_color" = C0DEED;
+                "profile_background_image_url" = "http://a0.twimg.com/images/themes/theme1/bg.png";
+                "profile_background_image_url_https" = "https://si0.twimg.com/images/themes/theme1/bg.png";
+                "profile_background_tile" = 0;
+                "profile_image_url" = "http://a0.twimg.com/profile_images/203968778/lazy_normal.gif";
+                "profile_image_url_https" = "https://si0.twimg.com/profile_images/203968778/lazy_normal.gif";
+                "profile_link_color" = 0084B4;
+                "profile_sidebar_border_color" = C0DEED;
+                "profile_sidebar_fill_color" = DDEEF6;
+                "profile_text_color" = 333333;
+                "profile_use_background_image" = 1;
+                protected = 0;
+                "screen_name" = robgomes;
+                "statuses_count" = 2928;
+                "time_zone" = "Eastern Time (US & Canada)";
+                url = "<null>";
+                "utc_offset" = "-14400";
+                verified = 0;
+            };
+        };
+        source = "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>";
+        text = "RT @robgomes: @marcoarment I love it.  I now am greeted by bucket recommendations when I go to http://t.co/KZuJJxjC8e.";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Mar 27 01:01:42 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "[Bio full of nouns related to writing, podcasting, and coffee.] Formerly of Tumblr, Instapaper, and The Magazine.";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "marco.org";
+                            "expanded_url" = "http://www.marco.org/";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/SV4FX5IA4P";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 6677;
+            "follow_request_sent" = "<null>";
+            "followers_count" = 60682;
+            following = 1;
+            "friends_count" = 252;
+            "geo_enabled" = 0;
+            id = 14231571;
+            "id_str" = 14231571;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 4613;
+            location = "New York, NY";
+            name = "Marco Arment";
+            notifications = "<null>";
+            "profile_background_color" = C0DEED;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/123453052/twitterbackground1.jpg";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/123453052/twitterbackground1.jpg";
+            "profile_background_tile" = 0;
+            "profile_image_url" = "http://a0.twimg.com/profile_images/1282173124/untitled-158-2_normal.jpg";
+            "profile_image_url_https" = "https://si0.twimg.com/profile_images/1282173124/untitled-158-2_normal.jpg";
+            "profile_link_color" = 0084B4;
+            "profile_sidebar_border_color" = C0DEED;
+            "profile_sidebar_fill_color" = DDEEF6;
+            "profile_text_color" = 333333;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = marcoarment;
+            "statuses_count" = 20341;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/SV4FX5IA4P";
+            "utc_offset" = "-14400";
+            verified = 0;
+        };
+    }
+
+
